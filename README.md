@@ -1,10 +1,10 @@
 \[!\[Open in MATLAB Online]
 
-# Práctica 1: Diseño de controladores
+# Práctica 2: sistema cardiovascular
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Pamela Escobedo Sandoval \[20211965]; l20211965@tectitjuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
