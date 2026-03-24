@@ -5,7 +5,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Pamela Escobedo Sandoval - l20211965@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
